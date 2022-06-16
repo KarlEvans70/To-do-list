@@ -39,7 +39,7 @@ export default function App() {
   };
 
   return (
-    <>
+    <div>
       <div id="main">
         <div className="center_div">
           <br />
@@ -72,6 +72,6 @@ export default function App() {
         </div>
       </div>
       ;
-    </>
+    </div>
   );
 };
